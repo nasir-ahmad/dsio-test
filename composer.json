@@ -1,0 +1,22 @@
+{
+    "name": "directsalesio/module-test",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "colin@directsales.io",
+            "name": "Colin Murray"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DirectSalesIO\\Test\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
