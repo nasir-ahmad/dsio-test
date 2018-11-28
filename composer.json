@@ -9,8 +9,6 @@
             "name": "Colin Murray"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
     "autoload": {
         "psr-4": {
             "DirectSalesIO\\Test\\": ""
